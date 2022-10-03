@@ -1,6 +1,8 @@
 # App Store三天内上线iTelevision ，敬请期待！
 ## Telegram交流群
 > [https://t.me/iTelevisions](https://t.me/iTelevisions)
+## TestFlight测试
+> [https://testflight.apple.com/join/ySX9E5I0](https://testflight.apple.com/join/ySX9E5I0)
 ## 自己研发自己推广，几个无广告的App。欢迎点击跳转App Store安装。
 ### 一、iPhone/iPad端安装
 >[1、iNFC （读写NFC标签，复制门禁卡）](https://apps.apple.com/cn/app/infc/id1562054959)
